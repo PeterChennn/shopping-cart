@@ -1,0 +1,12 @@
+.linkEffect {
+    text-decoration: none;
+    color: black;
+}
+
+.linkEffect:hover {
+    text-decoration: underline;
+}
+
+#warr {
+    color: red;
+}
